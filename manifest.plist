@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hy.wuqiannian</string>
+				<string>com.ztgame.fuhuabu</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>wuqiannian</string>
+				<string>cok</string>
 			</dict>
 		</dict>
 	</array>
